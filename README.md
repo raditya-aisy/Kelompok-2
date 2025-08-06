@@ -35,16 +35,16 @@ Tugas ini bertujuan untuk:
 1. **Analisis Ekologi:**
 
   - Menilai adaptasi spesies mangrove terhadap zonasi salinitas dan dampaknya pada survival rate (contoh: Rhizophora mucronata di Aceh mencapai 85%).
-  - Mengukur penyerapan karbon menggunakan formula 
+  - Mengukur penyerapan karbon menggunakan formula C = A x D x F (luas area × kepadatan karbon × faktor konversi). 
 ​
 2. **Implementasi Blockchain:**
 
   - Memverifikasi transparansi kredit karbon melalui Blockchain_Transactions.csv (contoh: 250 kredit dari proyek C001).
-  - Mengevaluasi efisiensi sistem dengan formula 
+  - Mengevaluasi efisiensi sistem dengan formula persentase transaksi tervalidasi.
 
 3. **Dampak Sosial-Ekonomi:**
    
-  - Menganalisis distribusi manfaat ke masyarakat (contoh: Rp5 juta/orang di Banten) dan kontribusi mitra lokal (Local_Partners.csv).
+  - Menganalisis distribusi manfaat ke masyarakat dan kontribusi mitra lokal (Local_Partners.csv).
 
 4. **Kepatuhan Regulasi:**
    
